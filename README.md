@@ -1,6 +1,7 @@
 # DecentraMedia - A Decentralized Social Media
 
 Share your thoughts permanently by storing them on the Ehtereum blockchain!
+
 It's kind of like a decentralized Twitter.
 
 ## App Overview
