@@ -21,21 +21,21 @@ It's kind of like a decentralized Twitter.
 
 ## Code Structure
 
-`/src/contracts/SocialNetwork.sol` - the smart contract that serves as the backend for the application.
-`src/components` - the React code to display the frontend to the user.
-`test` - test script to ensure the smart contract behaves correctly.
-`src/abis` - migrated smart contract code that is used to import the smart contract's logic into the frontend.
-`migrations` - helper scripts to deploy the smart contract to the blockchain.
+- `/src/contracts/SocialNetwork.sol` - the smart contract that serves as the backend for the application.
+- `src/components` - the React code to display the frontend to the user.
+- `test` - test script to ensure the smart contract behaves correctly.
+- `src/abis` - migrated smart contract code that is used to import the smart contract's logic into the frontend.
+- `migrations` - helper scripts to deploy the smart contract to the blockchain.
 
 ## Tech Stack
 
-`Smart Contract`: Solidity, Ganache, Truffle
-`Frontend`: React, JS, HTML, CSS
-`Testing Library`: Chai
+- `Smart Contract`: Solidity, Ganache, Truffle
+- `Frontend`: React, JS, HTML, CSS
+- `Testing Library`: Chai
 
 ## Tools Used
 
-`Ganache` - a blockchain that runs locally and mimics Ethereum in order to test out the application.
-`Truffle` - packages the smart contract and uploads it on Ganache.
+- `Ganache` - a blockchain that runs locally and mimics Ethereum in order to test out the application.
+- `Truffle` - packages the smart contract and uploads it on Ganache.
 
 Made with the help of [Gregory's amazing course](https://www.dappuniversity.com/articles/blockchain-tutorial#part4)
