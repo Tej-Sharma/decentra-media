@@ -8,4 +8,4 @@ It's kind of like a decentralized Twitter.
 - Share thoughts permanently on the feed
 - Instead of liking, you can tip other people's posts!
 
-Made with the help of ![Gregory's amazing course](https://www.dappuniversity.com/articles/blockchain-tutorial#part4)
+Made with the help of [Gregory's amazing course](https://www.dappuniversity.com/articles/blockchain-tutorial#part4)
